@@ -1,9 +1,8 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardtm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardtm&layout=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Bernardtm's github stats](https://github-readme-stats.vercel.app/api?username=Bernardtm&show_icons=true&theme=chartreuse-dark)
 
-![Repos Badge](https://badges.pufler.dev/repos/Bernardtm)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Bernardtm.Bernardtm)
 <!--
 **Bernardtm/Bernardtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
