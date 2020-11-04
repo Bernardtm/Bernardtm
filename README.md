@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<codersrank-widget
-  username="bernardtm"
-  style="--bg-color: #111; --header-bg-color: #222; --badge-bg-color: #333; --badge-text-color: #fff;"
-></codersrank-widget>
+<codersrank-widget username="bernardtm" style="--bg-color: #111; --header-bg-color: #222; --badge-bg-color: #333; --badge-text-color: #fff;">
+</codersrank-widget>
 
 For a more detailed profile, visit: [https://profile.codersrank.io/user/bernardtm](https://profile.codersrank.io/user/bernardtm)
 
