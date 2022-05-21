@@ -9,5 +9,5 @@ For a more detailed profile, visit: [https://profile.codersrank.io/user/bernardt
 />
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=bernardtm&labels=true"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=bernardtm"
 />
