@@ -8,3 +8,4 @@ For a more detailed profile, visit: [https://profile.codersrank.io/user/bernardt
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bernardtm&skills=Vue,Java,Go,Dockerfile,HTML,CSS,Python,Shell,Groovy&bg=#202d3b"
 />
 
+<codersrank-activity username="bernardtm"></codersrank-activity>
