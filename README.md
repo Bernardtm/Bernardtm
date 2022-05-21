@@ -9,7 +9,7 @@ For a more detailed profile, visit: [https://profile.codersrank.io/user/bernardt
 />
 
 ![Bernardtm's github stats](https://github-readme-stats.vercel.app/api?username=Bernardtm&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardtm&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardtm&layout=compact&theme=chartreuse-dark)]
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Bernardtm.Bernardtm)
 <!--
