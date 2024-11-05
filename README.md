@@ -1,3 +1,6 @@
+![Wallpaper.]([https://myoctocat.com/assets/images/base-octocat.svg](https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/olly-moss-firewatch-yellow.jpg))
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&duration=1000&pause=400&color=1DF713&multiline=true&width=435&height=420&lines=Welcome+to+my+GitHub!;%24+whoami;Bernard;%24+groups;dev+devops;%24+uname;Linux;%24+uptime;33+years;%24+date+%2B%25z;-0300;%24+asdf+current;nodejs+22;java+21;go+1.23;python+3.12)](https://git.io/typing-svg)
 
 <details>
