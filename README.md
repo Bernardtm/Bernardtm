@@ -1,9 +1,5 @@
 ### Welcome to my GitHub!
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub;)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Bernard;)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub;I+am+Bernard;I+am+a+Software+Developer;)](https://git.io/typing-svg)
 
 <details>
   <summary>Coders Rank</summary>
