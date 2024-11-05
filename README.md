@@ -1,4 +1,5 @@
 ### Welcome to my GitHub!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub;I+am+Bernard;A+Software+Developer)](https://git.io/typing-svg)
 
 <details>
   <summary>Coders Rank</summary>
