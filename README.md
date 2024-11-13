@@ -13,5 +13,4 @@
     src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bernardtm&skills=Vue,Java,Go,Dockerfile,HTML,CSS,Python,Shell,Groovy&bg=#202d3b"
   />
 </details>
-<span style="color: red">Test</span>
 
