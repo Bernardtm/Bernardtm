@@ -8,7 +8,7 @@
   
 </details>
 
-![Knowledge Base](https://immediate-sprite-700.notion.site/TI-1dd83a82444e4c8db226bc8352fc2026)
+![![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://immediate-sprite-700.notion.site/TI-1dd83a82444e4c8db226bc8352fc2026)
 
 <details>
   <summary>Coders Rank</summary>
