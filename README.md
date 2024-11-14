@@ -8,34 +8,7 @@
   
 </details>
 
-<details>
-  <summary>Knowledge</summary>
-
-  <details>
-    <summary>Git</summary>
-    git add .
-    git commit -m "msg"
-    git push origin branch_name
-    git pull origin branch_name
-  </details>
-  
-  <details>
-    <summary>Linux Commands</summary>
-    pwd
-    ls
-    cd 
-    mkdir
-    ssh
-    scp
-    vim
-  </details>
-  
-  <details>
-    <summary>SQL</summary>
-    select * from table;
-  </details>
-  
-</details>
+![Knowledge Base](https://immediate-sprite-700.notion.site/TI-1dd83a82444e4c8db226bc8352fc2026)
 
 <details>
   <summary>Coders Rank</summary>
